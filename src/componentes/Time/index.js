@@ -9,7 +9,7 @@ const Time = ({ time, colaboradores, aoDeletar, mudarCor }) => {
         className="time"
         style={{
           backgroundImage: "url(/imagens/fundo.png)",
-          backgroundColor: hexToRgba(time.cor, '0.6'),
+          backgroundColor: hexToRgba(time.cor, "0.6"),
         }}
       >
         <input

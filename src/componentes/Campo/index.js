@@ -1,4 +1,4 @@
-import "./Campo.css";
+import "./campo.css";
 
 const Campo = ({
   type = "text",
